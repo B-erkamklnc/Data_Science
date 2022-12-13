@@ -9,7 +9,7 @@ Created on Mon Oct 10 16:24:30 2022
 """
 Created on Mon Oct  3 09:25:34 2022
 
-@author: firat ismailoglu
+@author: B-erkmklnc
 
 Titanic datasi hakkinda genel bilgiler:
 *Her satir gemiye binen bir kisiye denk gelmektedir
