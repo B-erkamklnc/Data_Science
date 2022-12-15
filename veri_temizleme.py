@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 10 16:24:30 2022
 
-@author: firat ismailoglu
+@author: erkam
 """
 
 # -*- coding: utf-8 -*-
