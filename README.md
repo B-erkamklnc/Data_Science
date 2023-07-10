@@ -7,7 +7,7 @@ KNN algoritmasının kurulması ve eğitilmesi.
 
 En yakın kaç komşuya bakılması gerektiğini validasyon seti ile karar verme.
 
-k değerine karar verdikten sonra valisyon setini etiğim setine katarak
+k değerine karar verdikten sonra validasyon setini eğitim setine katarak
 KNN algoritmasının tekrar çalıştırılması ve test setine sokulması.
 
 Final başarı oranın yazdırılması. 
