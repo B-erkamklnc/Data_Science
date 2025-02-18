@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 10 16:24:30 2022
-
-@author: erkam
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Mon Oct  3 09:25:34 2022
 
 @author: B-erkmklnc
