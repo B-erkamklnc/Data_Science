@@ -293,5 +293,5 @@ for i in range(test_ornegi_sayisi):
     final_tahminler[i]=knn_siniflandirma(X_test[i,:],X_egitim_final,y_egitim_final,11)
 
 
-#final_skor=skor(final_tahminler,y_test) 
-#print("Final siniflandirma basarisi: {}".format(np.around(final_skor,3)))
+final_skor=skor(final_tahminler,y_test) 
+print("Final siniflandirma basarisi: {}".format(np.around(final_skor,3)))
